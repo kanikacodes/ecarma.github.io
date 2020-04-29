@@ -1161,6 +1161,9 @@ a.brand:focus{
 
 .info-title{
   width: 1px;
+  font-size: 2.57rem; 
+  line-height: 1.2; 
+  text-transform: capitalize;
 }
 
 .row-services{
@@ -2973,7 +2976,7 @@ opacity: 0.8;
   }
 
   .exvd {
-    height: 210px !important;
+    height: 180px !important;
   }
 
   .testvd {
@@ -3058,6 +3061,10 @@ opacity: 0.8;
     font-size: 8px;
     margin-bottom: 27px;
     color:#5C5C5C;
+  }
+
+  .info-title {
+    width: 100% !important;
   }
 
   /* .row-team {
